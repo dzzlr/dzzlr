@@ -1,12 +1,12 @@
 ### Hi there👋, I'm Fakhri Hassan Maulana
 
-I'm an Artificial Intelligence Developer Intern at Telkom Indonesia based in Bandung, Indonesia.
+I'm an Artificial Intelligence Developer Intern at Telkom Indonesia based in Bandung, Indonesia. Currently I'm learning Python for Machine Learning and Deep Learning, PHP (Laravel and Lumen), and Javascript (React.js) for Front-End Dev
 
 #### 🌱 My latest projects
 
 - [dzzlr/image-classification-CNN](https://github.com/dzzlr/image-classification-CNN) - Image Classification using CNN
 - [dzzlr/sentiment-analysis-SVM](https://github.com/dzzlr/sentiment-analysis-SVM) - Sentiment Analysis using SVM
-- [dzzlr/lumen-ecommerce](https://github.com/dzzlr/lumen-ecommerce) - API ECommerce 
+- [dzzlr/lumen-ecommerce](https://github.com/dzzlr/lumen-ecommerce) - API for E-Commerce 
 
 #### 🤝 Latest releases I've contributed to
 
