@@ -5,8 +5,9 @@ I'm a final year student at Telkom University based in Bandung, Indonesia. Curre
 #### 🌱 My latest projects
 
 - [dzzlr/text-classification-news](https://github.com/dzzlr/text-classification-news) - Text Classification using SVM
-- [dzzlr/image-classification-CNN](https://github.com/dzzlr/image-classification-CNN) - Image Classification using CNN
+- [dzzlr/nextjs-inference-api](https://github.com/dzzlr/nextjs-inference-api) - UI of Machine Learning Playground
 - [dzzlr/lumen-ecommerce](https://github.com/dzzlr/lumen-ecommerce) - API for E-Commerce 
+- [dzzlr/image-classification-CNN](https://github.com/dzzlr/image-classification-CNN) - Image Classification using CNN
 
 #### 🤝 Latest releases I've contributed to
 
