@@ -1,6 +1,6 @@
 ### Hi there👋, I'm Fakhri Hassan Maulana
 
-I'm a software engineer enthusiast based in Bandung, Indonesia. Currently I'm learning **Python** for Machine Learning and Deep Learning, **PHP** (Laravel and Lumen) for Full-Stack and Back-End Service, and **Javascript** (Next.js) for Front-End Dev.
+I'm a Software Engineer Infrastructure Enthusiast based in Bandung, Indonesia. Currently I'm learning **DevOps** with some programming languages such **Python** and **Golang** for Full-Stack and Back-End Service, and **Javascript** (Next.js) for Front-End Dev.
 
 #### 🌱 My latest projects
 
