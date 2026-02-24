@@ -4,6 +4,7 @@ I'm a Software Engineer Infrastructure Enthusiast based in Bandung, Indonesia. C
 
 #### 🌱 My latest projects
 
+- [dzzlr/433-microservices](https://github.com/dzzlr/a433-microservices) - CI/CD Pipeline of Karsajobs App and Deployment using K8s
 - [dzzlr/text-classification-playground](https://github.com/dzzlr/text-classification-playground) - Text Classification Model with API
 - [dzzlr/nextjs-inference-api](https://github.com/dzzlr/nextjs-inference-api) - UI of Machine Learning Playground
 - [dzzlr/lumen-ecommerce](https://github.com/dzzlr/lumen-ecommerce) - API for E-Commerce 
